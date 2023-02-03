@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tdechaize
 - 👀 I’m interested in devlopment on Windows and Linux
-- 🌱 I’m currently learning use of OpenGL on Linux : freeglut and GLX, with multi-screens and use "fullscreen" problems appeared in GLX, but i searche how resolve this (after many experience of use OpenGL on Windows). I find, it's sure, beacause freeglut is OK with fullscreen in multi-screens !!!
+- 🌱 I’m currently learning use of OpenGL on Linux : freeglut and GLX, with multi-screens. With "Fullscreen", problems appeared with GLX and multi-screens, but i searche how resolve this (after many experience of use OpenGL on Windows). I find, it's sure, beacause freeglut is OK with fullscreen in multi-screens !!!
 - 📫 How to reach me, by mail : thierry.dechaize@gmail.com
 
 <!---
